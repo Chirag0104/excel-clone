@@ -13,7 +13,9 @@ for(let i=0;i<rows;i++){
             fontFamily:"monospace",
             fontSize:"14",
             fontColor:"#000000",
-            BGcolor:"#ecf0f1" 
+            BGcolor:"#ecf0f1",
+            value:"", 
+            formula:"",
         }
         sheetRow.push(cellProp);
     }
